@@ -15,11 +15,7 @@ int main ()
         {
             if(i % j == 0)
             {
-                if(i == j)
-                {
-
-                }
-                else
+                if(i != j)
                 {
                     tempCount += 1;
                 }
