@@ -1,0 +1,11 @@
+C:\Users\evere\source\repos\ProjectEulerProblem3\ProjectEulerProblem3\bin\Debug\netcoreapp2.1\ProjectEulerProblem3.deps.json
+C:\Users\evere\source\repos\ProjectEulerProblem3\ProjectEulerProblem3\bin\Debug\netcoreapp2.1\ProjectEulerProblem3.runtimeconfig.json
+C:\Users\evere\source\repos\ProjectEulerProblem3\ProjectEulerProblem3\bin\Debug\netcoreapp2.1\ProjectEulerProblem3.runtimeconfig.dev.json
+C:\Users\evere\source\repos\ProjectEulerProblem3\ProjectEulerProblem3\bin\Debug\netcoreapp2.1\ProjectEulerProblem3.dll
+C:\Users\evere\source\repos\ProjectEulerProblem3\ProjectEulerProblem3\bin\Debug\netcoreapp2.1\ProjectEulerProblem3.pdb
+C:\Users\evere\source\repos\ProjectEulerProblem3\ProjectEulerProblem3\obj\Debug\netcoreapp2.1\ProjectEulerProblem3.csprojAssemblyReference.cache
+C:\Users\evere\source\repos\ProjectEulerProblem3\ProjectEulerProblem3\obj\Debug\netcoreapp2.1\ProjectEulerProblem3.csproj.CoreCompileInputs.cache
+C:\Users\evere\source\repos\ProjectEulerProblem3\ProjectEulerProblem3\obj\Debug\netcoreapp2.1\ProjectEulerProblem3.AssemblyInfoInputs.cache
+C:\Users\evere\source\repos\ProjectEulerProblem3\ProjectEulerProblem3\obj\Debug\netcoreapp2.1\ProjectEulerProblem3.AssemblyInfo.cs
+C:\Users\evere\source\repos\ProjectEulerProblem3\ProjectEulerProblem3\obj\Debug\netcoreapp2.1\ProjectEulerProblem3.dll
+C:\Users\evere\source\repos\ProjectEulerProblem3\ProjectEulerProblem3\obj\Debug\netcoreapp2.1\ProjectEulerProblem3.pdb

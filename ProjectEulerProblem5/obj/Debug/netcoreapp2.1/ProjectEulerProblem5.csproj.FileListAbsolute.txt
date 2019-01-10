@@ -1,0 +1,11 @@
+C:\Users\evere\source\repos\ProjectEulerProblem5\ProjectEulerProblem5\bin\Debug\netcoreapp2.1\ProjectEulerProblem5.deps.json
+C:\Users\evere\source\repos\ProjectEulerProblem5\ProjectEulerProblem5\bin\Debug\netcoreapp2.1\ProjectEulerProblem5.runtimeconfig.json
+C:\Users\evere\source\repos\ProjectEulerProblem5\ProjectEulerProblem5\bin\Debug\netcoreapp2.1\ProjectEulerProblem5.runtimeconfig.dev.json
+C:\Users\evere\source\repos\ProjectEulerProblem5\ProjectEulerProblem5\bin\Debug\netcoreapp2.1\ProjectEulerProblem5.dll
+C:\Users\evere\source\repos\ProjectEulerProblem5\ProjectEulerProblem5\bin\Debug\netcoreapp2.1\ProjectEulerProblem5.pdb
+C:\Users\evere\source\repos\ProjectEulerProblem5\ProjectEulerProblem5\obj\Debug\netcoreapp2.1\ProjectEulerProblem5.csprojAssemblyReference.cache
+C:\Users\evere\source\repos\ProjectEulerProblem5\ProjectEulerProblem5\obj\Debug\netcoreapp2.1\ProjectEulerProblem5.csproj.CoreCompileInputs.cache
+C:\Users\evere\source\repos\ProjectEulerProblem5\ProjectEulerProblem5\obj\Debug\netcoreapp2.1\ProjectEulerProblem5.AssemblyInfoInputs.cache
+C:\Users\evere\source\repos\ProjectEulerProblem5\ProjectEulerProblem5\obj\Debug\netcoreapp2.1\ProjectEulerProblem5.AssemblyInfo.cs
+C:\Users\evere\source\repos\ProjectEulerProblem5\ProjectEulerProblem5\obj\Debug\netcoreapp2.1\ProjectEulerProblem5.dll
+C:\Users\evere\source\repos\ProjectEulerProblem5\ProjectEulerProblem5\obj\Debug\netcoreapp2.1\ProjectEulerProblem5.pdb
